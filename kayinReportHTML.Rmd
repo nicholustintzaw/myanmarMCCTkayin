@@ -1,5 +1,5 @@
 ---
-title: \vspace{8cm} \LARGE{Programme Evaluation of Maternal and Child Cash Transfer (MCCT) Programme in Kayin State, Myanmar}
+title: Programme Evaluation of Maternal and Child Cash Transfer (MCCT) Programme in Kayin State, Myanmar
 subtitle: "Draft Report"
 author: ""
 date: "11 October 2019"
@@ -679,8 +679,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -768,8 +768,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                                           "Protein-rich foods" = 3, 
                                           "Heme iron-rich foods" = 3)) %>% 
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) #%>%
@@ -903,8 +903,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -961,8 +961,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -1028,8 +1028,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 12) %>%
   kableExtra::add_header_above(header = c(" " = 2, "Food Insecurity by HFES" = 4), align = "c") %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -1172,8 +1172,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                                           "Winter Season" = 3),
                                bold = TRUE, align = "c") %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) #%>%
@@ -1254,8 +1254,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -1326,8 +1326,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -1403,8 +1403,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 9) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -1488,8 +1488,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 9) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -1572,8 +1572,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -1643,8 +1643,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -1720,8 +1720,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 4, "Reasons for not seeking treatment" = 7),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -1830,8 +1830,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 2, "Where/who treatment is sought from" = 13),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -1917,8 +1917,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 3, "Payment for" = 6, " "),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2019,8 +2019,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 4, "Reasons for not seeking treatment" = 7),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2129,8 +2129,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 2, "Where/who treatment is sought from" = 13),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2238,8 +2238,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 3, "Payment for" = 6, " "),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2340,8 +2340,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 4, "Reasons for not seeking treatment" = 7),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2450,8 +2450,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 2, "Where/who treatment is sought from" = 13),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2559,8 +2559,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::add_header_above(header = c(" " = 3, "Payment for" = 6, " "),
                                align = "c", bold = TRUE) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2640,8 +2640,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 10) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3),
                         italic = TRUE)
@@ -2676,8 +2676,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 10) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3),
                         italic = TRUE)
@@ -2713,8 +2713,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 10) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3),
                         italic = TRUE)
@@ -2748,8 +2748,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 10) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3),
                         italic = TRUE)
@@ -2783,8 +2783,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 10) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -2860,8 +2860,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -2904,8 +2904,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 6) %>%
   kableExtra::add_header_above(header = c(" " = 4, "Contraceptive methods" = 14)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2943,8 +2943,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 10) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -2986,8 +2986,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 9) %>%
   kableExtra::add_header_above(header = c(" " = 3, "Source of family planning information" = 11, " " = 1)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3034,8 +3034,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 9) %>%
   kableExtra::add_header_above(header = c(" " = 6, "Costs incurred for ANC services" = 6, " ")) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3115,8 +3115,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 9) %>%
   kableExtra::add_header_above(header = c(" " = 4, "Restricted eating..." = 6)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3157,8 +3157,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 9) %>%
   kableExtra::add_header_above(header = c(" " = 6, "Source of iron-folic acid tablets" = 5)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3203,8 +3203,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 9) %>%
   kableExtra::add_header_above(header = c(" " = 3, "Type of test" = 4, "Location test was done" = 5, " " = 2)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3231,8 +3231,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3262,8 +3262,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3292,8 +3292,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3328,8 +3328,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 10) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3358,8 +3358,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3386,8 +3386,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3426,8 +3426,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 10) %>%
   kableExtra::add_header_above(header = c(" " = 4, "Provider of postnatal care" = 8)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3453,8 +3453,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3488,8 +3488,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 10) %>%
   kableExtra::add_header_above(header = c(" " = 3, "Reason for costs" = 6)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3527,10 +3527,10 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
              format = "html") %>%
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 9) %>%
-  kableExtra::add_header_above(header = c(" " = 4, "Provider of newborn care" = 7)) %>%
+  kableExtra::add_header_above(header = c(" " = 4, "Provider of newborn care" = 8)) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3567,8 +3567,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 10) %>%
   kableExtra::add_header_above(header = c(" " = 4, "Reason for costs" = 6, " ")) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3594,8 +3594,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3629,8 +3629,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
                             font_size = 9) %>%
   kableExtra::add_header_above(header = c(" " = 2, "Danger signs" = 7, " ")) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE) %>%
@@ -3657,8 +3657,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)
@@ -3691,8 +3691,8 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
   kableExtra::kable_styling(latex_options = c("HOLD_position"),
                             font_size = 12) %>%
   kableExtra::row_spec(row = 0, bold = TRUE) %>%
-  kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
-  kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
+  #kableExtra::column_spec(column = 0:ncol(tab), monospace = TRUE) %>%
+  #kableExtra::column_spec(column = 1:2, bold = TRUE) %>%
   kableExtra::collapse_rows(columns = 1:2, row_group_label_position = "stack") %>%
   kableExtra::pack_rows(index = c("Geographic" = 3, "Wealth" = 5),
                         italic = TRUE)

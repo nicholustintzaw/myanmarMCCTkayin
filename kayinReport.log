@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.10)  15 OCT 2019 12:43
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.10)  26 OCT 2019 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1127,7 +1127,7 @@ Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+onum;
 mapping=tex-text;" at 12.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Bold.otf
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 4.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 5.
 (/Users/ernest/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1137,7 +1137,7 @@ Requested font "rm-lmr8" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
 Requested font "rm-lmr6" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 4.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
 (/Users/ernest/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1147,7 +1147,7 @@ Requested font "lmmi8" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmmi8.tfm
 Requested font "lmmi6" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmmi6.tfm
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 4.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 5.
 (/Users/ernest/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1157,19 +1157,19 @@ Requested font "lmsy8" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmsy8.tfm
 Requested font "lmsy6" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 4.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 5.
 (/Users/ernest/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <12> on input line 5.
 Requested font "lmex10" scaled 1000
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 (/Users/ernest/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -1182,7 +1182,7 @@ msam10.tfm
 Requested font "msam7" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 msam7.tfm
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 (/Users/ernest/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -1195,38 +1195,37 @@ msbm10.tfm
 Requested font "msbm7" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 msbm7.tfm
-[2])
+[2] [3])
 \tf@toc=\write4
 \openout4 = `kayinReport.toc'.
 
-(./kayinReport.lot [3] [4])
+(./kayinReport.lot [4] [5])
 \tf@lot=\write5
 \openout5 = `kayinReport.lot'.
 
-(./kayinReport.lof [5] [6])
+(./kayinReport.lof [6] [7] [8])
 \tf@lof=\write6
 \openout6 = `kayinReport.lof'.
 
-[7] [8]
+[9] [10]
+Overfull \vbox (1.25728pt too high) has occurred while \output is active []
 
-Package natbib Warning: Citation `MinistryofHealthandSports-MoHS/Myanmar2017' o
-n page 9 undefined on input line 186.
-
+[11] [12] [13]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/n' will be
-(Font)              scaled to size 14.4pt on input line 206.
+(Font)              scaled to size 14.4pt on input line 246.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+onum;
 mapping=tex-text;" at 14.4pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Bold.otf
-[9]
+[14]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 259.
+(Font)              scaled to size 8.0pt on input line 299.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+on
 um;mapping=tex-text;" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Regular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 259.
+(Font)              scaled to size 10.0pt on input line 299.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+on
 um;mapping=tex-text;" at 10.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
@@ -1250,11 +1249,11 @@ Requested font "lmsy7" at 7.0pt
 Requested font "lmsy5" at 5.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 259.
+(Font)              <10> on input line 299.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 259.
+(Font)              <7> on input line 299.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 259.
+(Font)              <5> on input line 299.
 Requested font "msam10" at 10.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 msam10.tfm
@@ -1274,124 +1273,75 @@ Requested font "msbm5" at 5.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 msbm5.tfm
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 259.
+(Font)              scaled to size 7.0pt on input line 299.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+on
 um;mapping=tex-text;" at 7.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Regular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 259.
+(Font)              scaled to size 12.0pt on input line 299.
 Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+onu
 m;mapping=tex-text;" at 12.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Italic.otf
-[10]
+[15] [16] [17] [18] [19] [20] [21]
+Requested font "[lmmono12-regular]:" at 12.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono12-
+regular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 266.
+(Font)              scaled to size 10.0pt on input line 444.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+onum;
 mapping=tex-text;" at 10.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Bold.otf
 
-Package natbib Warning: Citation `MinistryofHealthandSports-MoHS/Myanmar2017' o
-n page 11 undefined on input line 266.
-
-
-Package natbib Warning: Citation `MinistryofHealthandSports-MoHS/Myanmar2017' o
-n page 11 undefined on input line 266.
-
-[11]
-
-Package natbib Warning: Citation `MinistryofSocialWelfareReliefandResettlement2
-018' on page 12 undefined on input line 277.
-
-
-Package natbib Warning: Citation `Bor2014' on page 12 undefined on input line 3
-14.
-
-
-Package natbib Warning: Citation `Schochet2009' on page 12 undefined on input l
-ine 314.
-
-[12] [13] [14]
-
-Package natbib Warning: Citation `DeOnis2004' on page 15 undefined on input lin
-e 359.
-
-
-Package natbib Warning: Citation `Ismail2013' on page 15 undefined on input lin
-e 359.
-
-
-Package natbib Warning: Citation `ulijaszek_kerr_1999' on page 15 undefined on 
-input line 361.
-
-[15] [16]
-Requested font "[lmmono12-regular]:" at 12.0pt
- -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono12-
-regular.otf
-
-Package natbib Warning: Citation `myanmarData2019' on page 17 undefined on inpu
-t line 404.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 404--404
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
 [][]\TU/EBGaramond(0)/m/n/10 For a full list of other R packages that \TU/EBGar
 amond(0)/bx/n/10 myanmarMCCTdata \TU/EBGaramond(0)/m/n/10 depends on, see [][]$
 [][][][][] [] [] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
-
-Package natbib Warning: Citation `rmarkdown2018' on page 17 undefined on input 
-line 406.
-
-[17]
-
-Package natbib Warning: Citation `InnovationsforPovertyAction2019' on page 18 u
-ndefined on input line 416.
-
-[18] [19] [20] [21]
+[22]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 704.
+(Font)              scaled to size 6.0pt on input line 458.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+on
 um;mapping=tex-text;" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Regular.otf
-[22] [23]
-
-Package natbib Warning: Citation `WorldHealthOrganizationWHO2006' on page 24 un
-defined on input line 808.
-
-
-Package natbib Warning: Citation `nutricheckr2019' on page 24 undefined on inpu
-t line 808.
-
-
-Package natbib Warning: Citation `nipnTK2019' on page 24 undefined on input lin
-e 808.
-
-[24] [25] [26]
+[23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+Requested font "[lmmono10-regular]:" at 10.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono10-
+regular.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 1009.
+Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+onu
+m;mapping=tex-text;" at 10.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
+BGaramond-Italic.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/it' will be
+(Font)              scaled to size 10.0pt on input line 1009.
+Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=DFLT;+pnum;
++onum;mapping=tex-text;" at 10.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
+BGaramond-BoldItalic.otf
+[33]
 File: kayinReport_files/figure-latex/ppiTable-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ppiTable-1.pdf>
+[34]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/it' will be
-(Font)              scaled to size 12.0pt on input line 966.
+(Font)              scaled to size 12.0pt on input line 1134.
 Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=DFLT;+pnum;
 +onum;mapping=tex-text;" at 12.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-BoldItalic.otf
-[27]
-
-LaTeX Warning: Reference `fig:fcs3plot' on page 28 undefined on input line 988.
-
-
-[28]
+[35] [36]
 File: kayinReport_files/figure-latex/fcs1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcs1plot-1.pdf>
 File: kayinReport_files/figure-latex/fcs2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcs2plot-1.pdf>
-[29]
+[37]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 1021.
+(Font)              scaled to size 9.0pt on input line 1189.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+on
 um;mapping=tex-text;" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
@@ -1403,7 +1353,7 @@ Requested font "lmmi9" at 9.0pt
 Requested font "lmsy9" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmsy9.tfm
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 1022.
+(Font)              <9> on input line 1190.
 Requested font "msam10" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 msam10.tfm
@@ -1411,7 +1361,7 @@ Requested font "msbm10" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 msbm10.tfm
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 1026.
+(Font)              scaled to size 9.0pt on input line 1194.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+onum;
 mapping=tex-text;" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
@@ -1420,56 +1370,57 @@ Requested font "[lmmono9-regular]:" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono9-r
 egular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 1031.
+(Font)              scaled to size 9.0pt on input line 1199.
 Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+onu
 m;mapping=tex-text;" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Italic.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/it' will be
-(Font)              scaled to size 9.0pt on input line 1031.
+(Font)              scaled to size 9.0pt on input line 1199.
 Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=DFLT;+pnum;
 +onum;mapping=tex-text;" at 9.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-BoldItalic.otf
 File: kayinReport_files/figure-latex/fcsn1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcsn1plot-1.pdf>
-[30]
+[38]
 File: kayinReport_files/figure-latex/fcsn2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcsn2plot-1.pdf>
 File: kayinReport_files/figure-latex/fcsn3plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcsn3plot-1.pdf>
-[31]
+[39]
 File: kayinReport_files/figure-latex/fcsn4plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcsn4plot-1.pdf>
 File: kayinReport_files/figure-latex/fcsn5plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcsn5plot-1.pdf>
-[32]
+[40]
 File: kayinReport_files/figure-latex/fcsn6plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fcsn6plot-1.pdf>
-[33] [34]
+[41] [42]
 File: kayinReport_files/figure-latex/ccsi1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ccsi1plot-1.pdf>
 File: kayinReport_files/figure-latex/ccsi2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ccsi2plot-1.pdf>
-[35] [36]
+[43]
+
+LaTeX Warning: Reference `tab:lcsi1Table' on page 44 undefined on input line 13
+40.
+
+[44]
 File: kayinReport_files/figure-latex/lcsi1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/lcsi1plot-1.pdf>
 File: kayinReport_files/figure-latex/lcsi2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/lcsi2plot-1.pdf>
-[37] [38]
+[45] [46]
 File: kayinReport_files/figure-latex/hfesScatterPlot1-1.pdf Graphic file (type 
 pdf)
 <use kayinReport_files/figure-latex/hfesScatterPlot1-1.pdf>
 File: kayinReport_files/figure-latex/hfesScatterPlot2-1.pdf Graphic file (type 
 pdf)
 <use kayinReport_files/figure-latex/hfesScatterPlot2-1.pdf>
-[39]
-
-LaTeX Warning: Reference `fig:wash2ploy' on page 40 undefined on input line 129
-5.
-
+[47]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 1304.
+(Font)              scaled to size 8.0pt on input line 1472.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+onum;
 mapping=tex-text;" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
@@ -1478,93 +1429,78 @@ Requested font "[lmmono8-regular]:" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono8-r
 egular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 1311.
+(Font)              scaled to size 8.0pt on input line 1479.
 Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+onu
 m;mapping=tex-text;" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Italic.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/it' will be
-(Font)              scaled to size 8.0pt on input line 1311.
+(Font)              scaled to size 8.0pt on input line 1479.
 Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=DFLT;+pnum;
 +onum;mapping=tex-text;" at 8.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-BoldItalic.otf
 
-Overfull \hbox (30.28717pt too wide) in paragraph at lines 1302--1331
+Overfull \hbox (30.28717pt too wide) in paragraph at lines 1470--1499
  [][] 
  []
 
-[40]
+[48]
 File: kayinReport_files/figure-latex/wash1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/wash1plot-1.pdf>
 File: kayinReport_files/figure-latex/wash2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/wash2plot-1.pdf>
-[41] [42]
+[49] [50]
 File: kayinReport_files/figure-latex/san1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/san1plot-1.pdf>
 File: kayinReport_files/figure-latex/san2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/san2plot-1.pdf>
-[43] [44] [45]
+[51] [52]
 File: kayinReport_files/figure-latex/handwashing1plot-1.pdf Graphic file (type 
 pdf)
 <use kayinReport_files/figure-latex/handwashing1plot-1.pdf>
 File: kayinReport_files/figure-latex/handwashing2plot-1.pdf Graphic file (type 
 pdf)
 <use kayinReport_files/figure-latex/handwashing2plot-1.pdf>
-[46] [47] [48
-
-]
+[53] [54]
 File: kayinReport_files/figure-latex/epi1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/epi1plot-1.pdf>
 File: kayinReport_files/figure-latex/epi2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/epi2plot-1.pdf>
-[49
-
-] [50
+[55] [56
 
 ]
 File: kayinReport_files/figure-latex/epi3plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/epi3plot-1.pdf>
-[51
-
-]
-Overfull \vbox (27.99974pt too high) has occurred while \output is active []
-
-[52]
 File: kayinReport_files/figure-latex/epi4plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/epi4plot-1.pdf>
-[53]
+[57
+
+] [58]
+Overfull \hbox (42.49416pt too wide) in paragraph at lines 1765--1792
+ [][] 
+ []
+
+[59
+
+]
+File: kayinReport_files/figure-latex/epi3aPlot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/epi3aPlot-1.pdf>
+File: kayinReport_files/figure-latex/epi4aPlot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/epi4aPlot-1.pdf>
+[60
+
+] [61]
 File: kayinReport_files/figure-latex/epi5plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/epi5plot-1.pdf>
 File: kayinReport_files/figure-latex/epi6plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/epi6plot-1.pdf>
-[54] [55] [56]
+[62] [63] [64]
 File: kayinReport_files/figure-latex/ill1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ill1plot-1.pdf>
 File: kayinReport_files/figure-latex/ill2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ill2plot-1.pdf>
-[57]
-
-LaTeX Warning: Reference `fig:diarrhoea5plot' on page 58 undefined on input lin
-e 1714.
-
-[58]
-Requested font "[lmmono10-regular]:" at 10.0pt
- -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono10-
-regular.otf
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 1730.
-Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+onu
-m;mapping=tex-text;" at 10.0pt
- -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
-BGaramond-Italic.otf
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/it' will be
-(Font)              scaled to size 10.0pt on input line 1730.
-Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=DFLT;+pnum;
-+onum;mapping=tex-text;" at 10.0pt
- -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
-BGaramond-BoldItalic.otf
-[59
+[65] [66] [67
 
 ]
 File: kayinReport_files/figure-latex/diarrhoea1plot-1.pdf Graphic file (type pd
@@ -1573,113 +1509,142 @@ f)
 File: kayinReport_files/figure-latex/diarrhoea2plot-1.pdf Graphic file (type pd
 f)
 <use kayinReport_files/figure-latex/diarrhoea2plot-1.pdf>
+File: kayinReport_files/figure-latex/diarrhoea3plot-1.pdf Graphic file (type pd
+f)
+<use kayinReport_files/figure-latex/diarrhoea3plot-1.pdf>
+[68
+
+]
 File: kayinReport_files/figure-latex/diarrhoea4plot-1.pdf Graphic file (type pd
 f)
 <use kayinReport_files/figure-latex/diarrhoea4plot-1.pdf>
-[60
-
-] [61]
-Overfull \hbox (6.74622pt too wide) in paragraph at lines 1785--1814
+[69]
+Overfull \hbox (6.74622pt too wide) in paragraph at lines 2018--2047
  [][] 
  []
 
-[62
+[70
 
 ]
+File: kayinReport_files/figure-latex/diarrhoea5plot-1.pdf Graphic file (type pd
+f)
+<use kayinReport_files/figure-latex/diarrhoea5plot-1.pdf>
 File: kayinReport_files/figure-latex/diarrhoea6plot-1.pdf Graphic file (type pd
 f)
 <use kayinReport_files/figure-latex/diarrhoea6plot-1.pdf>
-[63
+[71
 
-] [64
+] [72
 
 ]
+File: kayinReport_files/figure-latex/diarrhoea7plot-1.pdf Graphic file (type pd
+f)
+<use kayinReport_files/figure-latex/diarrhoea7plot-1.pdf>
 File: kayinReport_files/figure-latex/diarrhoea8plot-1.pdf Graphic file (type pd
 f)
 <use kayinReport_files/figure-latex/diarrhoea8plot-1.pdf>
+[73
 
-LaTeX Warning: Reference `fig:ari5plot' on page 65 undefined on input line 1877
-.
-
-[65
-
-] [66
+] [74] [75
 
 ]
 File: kayinReport_files/figure-latex/ari1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ari1plot-1.pdf>
 File: kayinReport_files/figure-latex/ari2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ari2plot-1.pdf>
+File: kayinReport_files/figure-latex/ari3plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/ari3plot-1.pdf>
+[76
+
+]
 File: kayinReport_files/figure-latex/ari4plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ari4plot-1.pdf>
-[67
-
-] [68]
-Overfull \hbox (6.74622pt too wide) in paragraph at lines 1948--1977
+[77]
+Overfull \hbox (6.74622pt too wide) in paragraph at lines 2212--2241
  [][] 
  []
 
-[69
+[78
 
 ]
+File: kayinReport_files/figure-latex/ari5plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/ari5plot-1.pdf>
 File: kayinReport_files/figure-latex/ari6plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ari6plot-1.pdf>
-[70
+[79
 
-] [71
+] [80
 
 ]
+File: kayinReport_files/figure-latex/ari7plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/ari7plot-1.pdf>
 File: kayinReport_files/figure-latex/ari8plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/ari8plot-1.pdf>
+[81
 
-LaTeX Warning: Reference `fig:fever5plot' on page 72 undefined on input line 20
-40.
-
-[72
-
-] [73
+] [82] [83
 
 ]
 File: kayinReport_files/figure-latex/fever1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fever1plot-1.pdf>
 File: kayinReport_files/figure-latex/fever2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fever2plot-1.pdf>
+File: kayinReport_files/figure-latex/fever3plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fever3plot-1.pdf>
+[84
+
+]
 File: kayinReport_files/figure-latex/fever4plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fever4plot-1.pdf>
-[74
-
-] [75]
-Overfull \hbox (6.74622pt too wide) in paragraph at lines 2111--2140
+[85]
+Overfull \hbox (6.74622pt too wide) in paragraph at lines 2406--2435
  [][] 
  []
 
-[76
+[86
 
 ]
+File: kayinReport_files/figure-latex/fever5plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fever5plot-1.pdf>
 File: kayinReport_files/figure-latex/fever6plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fever6plot-1.pdf>
-[77
+[87
 
-] [78
+] [88
 
 ]
+File: kayinReport_files/figure-latex/fever7plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fever7plot-1.pdf>
 File: kayinReport_files/figure-latex/fever8plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/fever8plot-1.pdf>
-[79
+[89
 
-] [80]
+]
+File: kayinReport_files/figure-latex/stuntPlot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/stuntPlot-1.pdf>
+[90]
+File: kayinReport_files/figure-latex/underweightPlot-1.pdf Graphic file (type p
+df)
+<use kayinReport_files/figure-latex/underweightPlot-1.pdf>
+[91]
+File: kayinReport_files/figure-latex/whzPlot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/whzPlot-1.pdf>
+[92]
+File: kayinReport_files/figure-latex/muacPlot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/muacPlot-1.pdf>
 
-LaTeX Warning: Reference `fig:iycf1table' on page 81 undefined on input line 23
-12.
+LaTeX Warning: Reference `fig:iycf1table' on page 93 undefined on input line 26
+61.
 
+[93]
 File: kayinReport_files/figure-latex/iycf1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/iycf1plot-1.pdf>
-[81]
+[94]
 File: kayinReport_files/figure-latex/iycf2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/iycf2plot-1.pdf>
-[82] [83] [84] [85]
+[95] [96] [97] [98]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/n' will be
-(Font)              scaled to size 6.0pt on input line 2423.
+(Font)              scaled to size 6.0pt on input line 2772.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+onum;
 mapping=tex-text;" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
@@ -1688,116 +1653,214 @@ Requested font "[lmmono8-regular]:" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono8-r
 egular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 2428.
+(Font)              scaled to size 6.0pt on input line 2777.
 Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+onu
 m;mapping=tex-text;" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-Italic.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/it' will be
-(Font)              scaled to size 6.0pt on input line 2428.
+(Font)              scaled to size 6.0pt on input line 2777.
 Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=DFLT;+pnum;
 +onum;mapping=tex-text;" at 6.0pt
  -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
 BGaramond-BoldItalic.otf
 
-Overfull \hbox (10.20216pt too wide) in paragraph at lines 2419--2448
+Overfull \hbox (10.20216pt too wide) in paragraph at lines 2768--2797
  [][] 
  []
 
-[86
-
-] [87
-
+[99
 
 ]
-Overfull \hbox (30.37119pt too wide) in paragraph at lines 2491--2520
+File: kayinReport_files/figure-latex/fplan1plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fplan1plot-1.pdf>
+File: kayinReport_files/figure-latex/fplan2plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fplan2plot-1.pdf>
+[100
+
+] [101
+
+]
+File: kayinReport_files/figure-latex/fplan3plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fplan3plot-1.pdf>
+File: kayinReport_files/figure-latex/fplan4plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fplan4plot-1.pdf>
+[102
+
+]
+Overfull \hbox (30.37119pt too wide) in paragraph at lines 2876--2905
  [][] 
  []
 
-[88
+[103
 
+]
+File: kayinReport_files/figure-latex/fplan5plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fplan5plot-1.pdf>
+File: kayinReport_files/figure-latex/fplan6plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/fplan6plot-1.pdf>
+[104
 
-] [89
-
-] [90
+] [105] [106
 
 ]
 File: kayinReport_files/figure-latex/anc1plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/anc1plot-1.pdf>
 File: kayinReport_files/figure-latex/anc2plot-1.pdf Graphic file (type pdf)
 <use kayinReport_files/figure-latex/anc2plot-1.pdf>
-[91
+[107
 
-] [92] [93
+] [108] [109
 
-] [94
-
-] [95
-
-] [96
-
-] [97
-
-] [98
-
-] [99] [100
-
-] [101
-
-] [102
-
-] [103
-
-] [104
-
-] [105
-
-] [106
-
-] [107
-
-
-] [108
-
-] [109
-
-] [110
+]
+File: kayinReport_files/figure-latex/anc1Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/anc1Plot-1.pdf>
+File: kayinReport_files/figure-latex/anc2Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/anc2Plot-1.pdf>
+[110
 
 ] [111]
-File: kayinReport_files/figure-latex/rd2-1.pdf Graphic file (type pdf)
-<use kayinReport_files/figure-latex/rd2-1.pdf>
-File: kayinReport_files/figure-latex/rd3-1.pdf Graphic file (type pdf)
-<use kayinReport_files/figure-latex/rd3-1.pdf>
+Overfull \hbox (22.01015pt too wide) in paragraph at lines 3095--3124
+ [][] 
+ []
+
 [112]
-File: kayinReport_files/figure-latex/rd4-1.pdf Graphic file (type pdf)
-<use kayinReport_files/figure-latex/rd4-1.pdf>
-[113]
-File: kayinReport_files/figure-latex/rd5-1.pdf Graphic file (type pdf)
-<use kayinReport_files/figure-latex/rd5-1.pdf>
-[114] [115] (./kayinReport.bbl)
+File: kayinReport_files/figure-latex/anc3Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/anc3Plot-1.pdf>
+File: kayinReport_files/figure-latex/anc4Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/anc4Plot-1.pdf>
+[113] [114] [115
 
-Package natbib Warning: There were undefined citations.
+] [116
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3313.
-[116]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3313.
+]
+File: kayinReport_files/figure-latex/birth1Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/birth1Plot-1.pdf>
+File: kayinReport_files/figure-latex/birth2Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/birth2Plot-1.pdf>
+[117] [118]
+File: kayinReport_files/figure-latex/birth3Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/birth3Plot-1.pdf>
+File: kayinReport_files/figure-latex/birth4Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/birth4Plot-1.pdf>
+[119]
+Overfull \hbox (22.01016pt too wide) in paragraph at lines 3340--3367
+ [][] 
+ []
+
+File: kayinReport_files/figure-latex/birth5Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/birth5Plot-1.pdf>
+[120]
+File: kayinReport_files/figure-latex/birth6Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/birth6Plot-1.pdf>
+[121] [122] [123]
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/n' will be
+(Font)              scaled to size 7.0pt on input line 3473.
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+onum;
+mapping=tex-text;" at 7.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
+BGaramond-Bold.otf
+Requested font "[lmmono8-regular]:" at 7.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/lm/lmmono8-r
+egular.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 3478.
+Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+onu
+m;mapping=tex-text;" at 7.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
+BGaramond-Italic.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/it' will be
+(Font)              scaled to size 7.0pt on input line 3478.
+Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=DFLT;+pnum;
++onum;mapping=tex-text;" at 7.0pt
+ -> /Users/ernest/Library/TinyTeX/texmf-dist/fonts/opentype/public/ebgaramond/E
+BGaramond-BoldItalic.otf
+File: kayinReport_files/figure-latex/pnc1Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/pnc1Plot-1.pdf>
+File: kayinReport_files/figure-latex/pnc2Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/pnc2Plot-1.pdf>
+[124]
+File: kayinReport_files/figure-latex/pnc3Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/pnc3Plot-1.pdf>
+[125]
+File: kayinReport_files/figure-latex/pnc4Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/pnc4Plot-1.pdf>
+[126] [127]
+Overfull \hbox (7.46016pt too wide) in paragraph at lines 3547--3576
+ [][] 
+ []
+
+
+Overfull \hbox (1.97316pt too wide) in paragraph at lines 3588--3617
+ [][] 
+ []
+
+File: kayinReport_files/figure-latex/nbc1Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc1Plot-1.pdf>
+[128]
+File: kayinReport_files/figure-latex/nbc2Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc2Plot-1.pdf>
+[129]
+File: kayinReport_files/figure-latex/nbc3Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc3Plot-1.pdf>
+File: kayinReport_files/figure-latex/nbc4Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc4Plot-1.pdf>
+[130] [131] [132
+
+]
+File: kayinReport_files/figure-latex/nbc5Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc5Plot-1.pdf>
+File: kayinReport_files/figure-latex/nbc6Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc6Plot-1.pdf>
+[133
+
+] [134]
+Overfull \hbox (24.18517pt too wide) in paragraph at lines 3757--3786
+ [][] 
+ []
+
+File: kayinReport_files/figure-latex/nbc7Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc7Plot-1.pdf>
+[135]
+File: kayinReport_files/figure-latex/nbc8Plot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/nbc8Plot-1.pdf>
+[136] [137] [138]
+File: kayinReport_files/figure-latex/mMuacPlot-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/mMuacPlot-1.pdf>
+[139] [140]
+File: kayinReport_files/figure-latex/rd2a-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/rd2a-1.pdf>
+File: kayinReport_files/figure-latex/rd3a-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/rd3a-1.pdf>
+[141]
+File: kayinReport_files/figure-latex/rd4a-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/rd4a-1.pdf>
+File: kayinReport_files/figure-latex/rd5a-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/rd5a-1.pdf>
+[142]
+File: kayinReport_files/figure-latex/rd7a-1.pdf Graphic file (type pdf)
+<use kayinReport_files/figure-latex/rd7a-1.pdf>
+[143] [144] (./kayinReport.bbl [145] [146] [147])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4007.
+[148]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4007.
 (./kayinReport.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3313.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3313.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 4007.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4007.
 
 Package rerunfilecheck Info: File `kayinReport.out' has not changed.
-(rerunfilecheck)             Checksum: 1EDB9ADD4F6214BEF7763B8505F610B8.
+(rerunfilecheck)             Checksum: 78D2813E6CF0DF7B051E5B94CA1C8D62.
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 25795 strings out of 494894
- 484866 string characters out of 6173843
- 594133 words of memory out of 5000000
- 29344 multiletter control sequences out of 15000+600000
- 561461 words of font info for 106 fonts, out of 8000000 for 9000
+ 26102 strings out of 494894
+ 496107 string characters out of 6173843
+ 609593 words of memory out of 5000000
+ 29602 multiletter control sequences out of 15000+600000
+ 561493 words of font info for 110 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 58i,17n,99p,1675b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,17n,99p,1773b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on kayinReport.pdf (116 pages).
+Output written on kayinReport.pdf (148 pages).

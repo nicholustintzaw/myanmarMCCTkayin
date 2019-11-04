@@ -1,0 +1,166 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=2cm]{geometry}
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+\hypersetup{unicode=true,
+            pdftitle={Program Evaluation of Maternal and Child Cash Transfer (MCCT) program in Kayin State, Myanmar},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=blue,
+            urlcolor=blue,
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{natbib}
+\bibliographystyle{plainnat}
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Program Evaluation of Maternal and Child Cash Transfer (MCCT) program in Kayin State, Myanmar}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+  \subtitle{Policy Brief}
+  \author{}
+    \preauthor{}\postauthor{}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{26 October 2019}
+
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{setspace}
+\usepackage{ebgaramond}
+
+\onehalfspacing
+
+\graphicspath{ {figures/} }
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
+
+\begin{document}
+\maketitle
+
+{
+\hypersetup{linkcolor=black}
+\setcounter{tocdepth}{4}
+\tableofcontents
+}
+\newpage
+
+\hypertarget{intro}{%
+\section{Introduction}\label{intro}}
+
+Kayin State remains one of the less developed areas of Myanmar and is home to some of the most remote and isolated communities in the country with decades long armed conflicts between Ethnic Armed Organizations and Myanmat Tatmadaw. As confirmed by Myanmar Demographic and Health Survey conducted in 2015, children in Kayin State are more likely to be malnourished than the average child in Myanmar, with the prevalence of stunting being particularly high \citep{MinistryofHealthandSports-MoHS/Myanmar2017}. Moreover, certain maternal and child health indicators are among the lowest in Myanmar, specifically concerning contraception prevalence, antenatal care visits as well as immunization rates amongst children 12 and 23 months of age.
+
+Since 2017, the Ministry of Social Welfare, Relief and Resettlement (MSWRR) started rolling out a Maternal and Child Cash Transfer (MCCT) program in specific states including Kayin State through the Department of Social Welfare, in line with the National Social Protection Strategic Plan (NSPSP) and the Multi-Sector National Plan of Action for Nutrition (MS-NPAN). The program aims to improve nutritional outcomes for all mothers and children during the first 1000 days of life by ensuring that pregnant women and mothers have improved practices on nutrition, infant, and young child feeding, and health-seeking behaviors. The program aims to provide universal coverage to social behavior change communication (SBCC) and a maternal and child cash transfer (MCCT) of 15,000 MMK per month for all pregnant women and mothers with children under 2 years of age. In Kayin State, recruitment into the programme started on the 1st of October 2018. From the 6th of August to the 20th of September 2019, a study that included a baseline population-based survey and a study cohort of mothers and children was undertaken The study aims to assess key household, child health and nutrition and maternal health and nutrition indicators to describe the existing situation in Kayin State and to assess the impact of the MCCT in acheiving its goals of reducing childhood undernutrition, specifically stunting, in Kayin State.
+
+\hypertarget{findings}{%
+\section{Key findings}\label{findings}}
+
+The results of the population-based baseline survey in Kayin State indicate that child undernutrition specifically stunting/stuntedness and underweight is one of the highest in Myanmar with children in hard-to-reach areas (which also tend to be the poorest in the state) being the worst affected in the state. Results from child health and nutrition related indicators describes the situation in the state of poor infant and young child feeding and breastfeeding practices and low coverage and access to child health services such as immunisation as immediate factors that may explain the level of child undernutrition in the state. In addition, maternal health as proxied by services for mothers during pregnancy, on giving birth and post-pregnancy indicate mostly disparate results of relative better access among wealthy women and lesser access for poorer women. Overall, most mothers who access these maternal health services pay out-of-pocket hence exacerbating the wealth disparity in access to these services. Maternal undernutrition as proxied by maternal wasting by MUAC is, however, low though dietary diversity of women is not optimal.
+
+More distal factors such as food insecurity as proxied by food consumption, coping strategies, household food expenditure share are not at critical levels for the state on aggregate but wealth disparities with regard to these food security indicators support the idea that poverty is a distal driver of child undernutrition in the state. Water and sanitation and hygiene indicators, another distal factor impacting on child health and nutrition, though on aggregate are acceptable are much worse for poor households.
+
+Treatment-seeking for childhood illnesses in Kayin state is to partly explained by wealth disparity though results seem to indicate a more complex mechanism of decisionmaking within households that the current results cannot completely explain.
+
+It is within this context that the MCCT program is embedded aiming to address primarily the distal factor of poverty and its correlates so that households can address immediate and intermediate factors of access to nutritious food and access to services which in turn can impact on the child undernutrition situation specifically stunting. However, the results of the population-based survey indicate that current coverage of the MCCT program in Kayin state is too low to possibly make an impact.
+
+The results from the cohort of intervention and control mother and children recruited for the evaluation component of the study seem to support this concern. Whilst there is beginning discontinuity noted between intervention and control groups after one year of intervention, the difference is not significant enough to be able to associate this effect on the MCCT program. This can be partly explained by a relatively short period of exposure to be able to make an impact on stunting/stuntedness. But it is also explained by the low coverage achieved by the program currently.
+
+\hypertarget{recommendations}{%
+\section{Recommendations}\label{recommendations}}
+
+Given this, it is critical that the MCCT program achieve high levels of coverage as an immediate point of action. Secondly, other factors that a cash transfer program will most likley not impact should be considered for other types of interventions. This includes efforts to improve water, sanitation and hygiene services particularly in hard-to-reach and in poor households. Social and behavioural change communication, a component of the current intervention, also has a role in impacting on diet-related practices specifically on infant and young child feeding and in addition it should include key messages on appropriate hygiene practices and treatment-seeking practices based on nuanced and contextualised understanding of existing practices and behaviours.
+
+\renewcommand\refname{References}
+\bibliography{bibliography.bib}
+
+
+\end{document}
