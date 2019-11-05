@@ -1,5 +1,6 @@
 ---
-title: \vspace{8cm} \LARGE{Program Evaluation of Maternal and Child Cash Transfer (MCCT) program in Kayin State, Myanmar}
+title: \vspace{8cm} \LARGE{Baseline Assessment of the Maternal and Child Cash Transfer
+  (MCCT) program in Kayin State, Myanmar}
 subtitle: "Draft Report"
 author: ""
 date: '`r format(Sys.Date(), "%d %B %Y")`'
@@ -86,7 +87,7 @@ y <- c("Community Partners International",
        "Food consumption score",
        "Food consumption score - nutrition",
        "General Administration Department",
-       "Glocal Acute Malnutrition",
+       "Global Acute Malnutrition",
        "Height-for-age z-score",
        "Household food expenditure share",
        "Human immunodeficiency virus/Acquired immune deficiency syndrome",
@@ -96,11 +97,11 @@ y <- c("Community Partners International",
        "Moderate acute malnutrition",
        "Mother and child cash transfer",
        "Minimum dietary diversity for women",
-       "Myanmar Kyatt",
+       "Myanmar Kyat",
        "Ministry of Social Welfare, Relief and Resettlement",
        "Multi-sector National Plan of Action for Nutrition",
        "Midde upper arm circumference",
-       "National Nutrition Council",
+       "National Nutrition Center",
        "National Social Protection Strategic Plan",
        "Open Data Kit",
        "Pregnant or lactating women",
@@ -156,19 +157,53 @@ Given this, it is critical that the MCCT program achieve high levels of coverage
 
 # Background {#background}
 
-Kayin State remains one of the less developed areas of Myanmar and is home to some of the most remote and isolated communities in the country with decades long armed conflicts between Ethnic Armed Organizations and Myanmat Tatmadaw. As confirmed by Myanmar Demographic and Health Survey conducted in 2015, children in Kayin State are more likely to be malnourished than the average child in Myanmar, with the prevalence of stunting being particularly high [@MinistryofHealthandSports-MoHS/Myanmar2017]. Moreover, certain maternal and child health indicators are among the lowest in Myanmar, specifically concerning contraception prevalence, antenatal care visits as well as immunization rates amongst children 12 and 23 months of age.
+Myanmar has experienced macroeconomic growth and improving gross domestic product (GDP) at the national level over the past decade, and has seen childhood stunting decline from 54% in 1991 to 29% in 2015/2016 [UNICEF/WHO/WorldBank, 2019]. However, maternal and child malnutrition remains unacceptably high, and addressing the approximately 1.3 million children in Myanmar who suffer from stunting remains a public health and social welfare priority. Children who suffer from stunting have an increased risk of mortality and morbidity, delayed development, cognitive deficits, poor school performance and attendance, and work performance later in life [@DeOnis2016]. Other nutritional outcomes remain a concern: 19% of children under 5 are underweight, only 51% of newborns are exclusively breastfed in the first 6 months of life, and only 16% of children under the age of 2 years receive the minimum acceptable diet [@MinistryofHealthandSports-MoHS/Myanmar2017]. 
 
-Since 2017, the Ministry of Social Welfare, Relief and Resettlement (MSWRR) started rolling out a Maternal and Child Cash Transfer (MCCT) program in Chin, Rakhine, Kayah, and Kayin States through the Department of Social Welfare, in line with the National Social Protection Strategic Plan (NSPSP) and the Multi-Sector National Plan of Action for Nutrition (MS-NPAN). The program aims to improve nutritional outcomes for all mothers and children during the first 1000 days of life by ensuring that pregnant women and mothers have improved practices on nutrition, infant, and young child feeding, and health-seeking behaviors. The program aims to provide universal coverage to social behavior change communication (SBCC) and a maternal and child cash transfer (MCCT) of 15,000 MMK per month for all pregnant women and mothers with children under 2 years of age.
+## Nutrition Policy Context in Myanmar
+
+Myanmar signed up to the Scaling up Nutrition (SUN) Global Movement in 2012 to commit the country to sustainable, actionable, and costed policies to effectively address malnutrition in Myanmar. While Dietary Energy Supply has increased, dietary quality remains low, and most household expenditure relates to food. The National Social Protection Strategic Plan (NSPSP) was endorsed in 2014 to promote human and socio-economic development, strengthen resilience, promote productivity, and improve social cohesion, and articulated flagship social protection programs to improve nutritional outcomes in the country. In 2018, the Multi-Sectoral National Plan of Action on Nutrition (MS-NPAN) was launched to address malnutrition in Myanmar in a coordinated way across multiple Ministries [@NationalNutritionCentre2018]. 
+
+## Overview of the Maternal and Child Cash Transfer (MCCT) Program in Myanmar
+
+As the first of the eight flagship social protection programs established by the Government of Myanmar in the NSPSP and in line with the MS-NPAN, the MCCT program aims to improve nutritional outcomes for all mothers and children during the critical first 1,000 days of life (i.e. from conception to 24 months of age). The MCCT Program first started in Chin State in June 2017 with technical support from UNICEF and financial support from LIFT, and has since been rolled out to Rakhine and Nagaland in January 2018 and Kayah and Kayin States in October 2018 [DSW, 2018].
+
+The DSW determined that it is important to intervene in the first 1,000 days of life because unmet needs during this critical window can perpetuate intergenerational cycles of poor nutritional status [DSW, 2018]. Growth faltering—the term that characterizes all height-for-age z-scores (HAZ) below the WHO Child Growth Standards median—typically starts in utero and continues for the first 2 years of age [@DeOnis2016; @Shrimpton2001; @Victora2008]. Stunting has both short-term and long-term impacts on the child that affect health and development that can be severe and irreversible [@DeOnis2016]. Poor outcomes include poor physical growth, risk of infection and mortality, poor cognitive and motor development, poor learning capacity and educational performance, low school attendance, low adult wages, lost productivity, and poor reproductive health [@DeOnis2016].
+
+All pregnant women who meet the eligibility criteria for enrollment in the MCCT program receive program benefits until their new child reaches age 2. Benefits and services under the MCCT program include a cash transfer of MMK 15,000 per month and education/awareness-raising sessions on nutrition, health, and hygiene, with the goal of improving practices on nutrition, infant and young child feeding, and health-seeking behaviors.
+
+## The MCCT Program in Kayin State
+
+In October 2018, the DSW introduced the MCCT Program in Kayin State. Kayin State (27,818 $km ^ 2$; capital: Hpa-An) borders Mandalay Region and Shan State to the north, Kayah State to the northeast, Mon State and Bago Region to the West, and Thailand to the east. Kayin State is divided into four districts, seven townships, 86 wards and 384 village tracts [DOP, 2015]. Kayin State is predominantly rural, with a population density of 2,386 people per $km ^ 2$ in urban areas and 49 people per km2 in rural areas. Kayin State is home to many ethnic groups, including the Sgaw Karen, Pwo Karen, Bwe Karen, Paku Karen, Shan, Pao, Bamar, and Mon [UNHCR, 2014]. In Kayin State, the vast majority rely on agriculture and animal husbandry as their main source of income, with major crops such as rice, rubber, sugarcane, fruits and vegetables [UNHCR, 2014]. Despite increased programming to diversify livelihood opportunities, ongoing conflict and contesting administrative systems continue to present barriers to improving local market chains, accessing markets, and fields [MIMU & PSF, 2016]. 
+
+Kayin State remains one of the least developed areas of Myanmar, and is home to some of the most remote and isolated communities in the country due to decades of conflict in the area. According to results of the Myanmar Demographic and Health Survey (DHS) 2015/16, certain maternal and child health indicators in Kayin State are among the lowest in Myanmar, including utilization of family planning, number of antenatal visits, and immunization coverage among children under 2 years of age.
+
+Through March 2019, DSW supported a total of 26370 pregnant women and under 2 children in Kayin State.
+
+\newpage
+
+```{r myanmarMap1, echo = FALSE, eval = TRUE, fig.cap = "Stunting prevalence by States and Regions", out.width = "50%", fig.align = "center", fig.pos = "H"}
+knitr::include_graphics("figures/kayah1.png")
+```
+
+```{r myanmarMap2, echo = FALSE, eval = TRUE, fig.cap = "Immunisation coverage by States and Regions", out.width = "50%", fig.align = "center", fig.pos = "H"}
+knitr::include_graphics("figures/kayah2.png")
+```
+
+```{r myanmarMap3, echo = FALSE, eval = TRUE, fig.cap = "Family planning unmet need by States and Regions", out.width = "50%", fig.align = "center", fig.pos = "H"}
+knitr::include_graphics("figures/kayah3.png")
+```
+
+The NSPSP prioritizes the most geographically excluded and poorest States and Regions, and emphasizes the importance of including historically religious, ethnic, and other underserved minorities through increased cooperation and communication.
 
 # Study aims and objectives {#objectives}
 
-To provide a basis for measuring and evaluating the outcomes and impact of the MCCT program over time by estimating current levels of indicators related to:
+To provide a basis for measuring and evaluating the outcomes and impact of the MCCT program over time, in line with the MSWRR’s program to support maternal and child nutrition in support of the MS-NPAN by estimating current levels of indicators related to:
 
-1. Nutrition based on anthropometric measurements of maternal and child weight, height, and mid-upper arm circumference (MUAC) in Kayin State;
+1. Nutrition based on anthropometric measurements of child weight, height, and mid-upper arm circumference (MUAC) and maternal MUAC in Kayin State;
 
-2. Behaviors related to nutrition, infant and young child feeding (IYCF), and health-seeking among mothers in Kayin State; and,
+2. Behaviors related to nutrition, infant and young child feeding (IYCF), and health-seeking pratices among mothers in Kayin State; and,
 
-3. Knowledge related to health, nutrition, and hygiene among pregnant women and mothers with under five children in Kayin state.
+3. Knowledge related to health, nutrition, and hygiene among pregnant women and mothers with under 5 children in Kayin state.
 
 ## Research Questions {#research-questions}
 
@@ -178,13 +213,6 @@ To provide a basis for measuring and evaluating the outcomes and impact of the M
 
 3.  What is the impact of the MCCT program on maternal nutritional status in Kayin State?
 
-## Study Output {#study-outputs}
-
-1. Estimates of the current levels of indicators related to nutrition, IYCF, and health-seeking behaviors among mothers and their children under 5 in Kayin State
-
-2. Estimate of prevalence of childhood stunting in the study cohort of children exposed to the MCCT program and those who are not in Kayin State
-
-3. Estimate of prevalence of maternal nutritional status in the study cohort of mothers exposed to the MCCT program and those who are not in Kayin State
 
 # Methods {#methods}
 
@@ -206,19 +234,19 @@ This component of the study was designed to address research question 1 (Section
 
 #### Sampling frame {#sampling-frame}
 
-To assess the various outcome indicators for the assessment[^1], a two-stage cluster sample survey was implemented. The **first stage sample** was a sample of about 75 villages out of the total villages in Kayin State stratified into 1) *urban*, 2) *rural* and 3) *hard-to-reach* areas. The **second stage sample**, also called the within-community sample, was a sample of households from the selected villages with mothers with children less than 5 years old. The second stage sample was selected using the list of household with children under 5 years of age from each village as identified by township General Administrative Unit (GAD) whenever possible.
+To assess the various outcome indicators for the assessment[^1], a two-stage cluster sample survey was implemented. The **first stage sample** was a sample of about 75 wards and villages tracts out of the total wards and villages tracts in Kayin State stratified into 1) *urban*, 2) *rural* and 3) *hard-to-reach* areas. Stratification was based on administrative classifications and other characteristics such as remoteness and restricted access due to mixed administration. Sampling was proportional to population size of the ward or village tract. The **second stage sample**, also called the within-community sample, was a sample of households from the selected wards and villages tracts with mothers with children less than 5 years old. The second stage sample was selected using the list of household with children under 5 years of age from each village as identified by township General Administrative Department (GAD) whenever possible.
 
-A total of about 14 households with pregnant mothers and mothers with children less than 5 years were sampled in each village. If a small community was selected that was likely to have fewer than the required number of eligible respondents, all eligible households and persons in that community are sampled by moving door-to-door. If a household had more than one mother with children less than 5 years of age, mother with children less than 2 years of age was prioritized for data collection. If there were more than one mother with children less than 2 years of age, one of these mothers was selected randomly. Only the under 5 children of the index mother were included in the anthropometric measurements if there were more than one mother with under 5 children in the same household. In addition, all pregnant mothers present in the household of the respondents were measured for middle upper arm circumference (MUAC).
+A total of about 14 households with pregnant mothers and mothers with children less than 5 years were sampled in each village. If a small community was selected that was likely to have fewer than the required number of eligible respondents, all eligible households and persons in that community are sampled by moving door-to-door. If a household had more than one mother with children under 5 years of age, all eligible women within the household were interviewed. In addition, all pregnant mothers present in the household of the respondents were measured for middle upper arm circumference (MUAC).
 
 #### Sample size estimation {#sample-size-1}
 
-Using childhood stunting as index indicator for sample size calculations, the sample size needed to detect a change of mean HAZ from 1.432 in Kayin State[^2] to -0.932 with a calculated standard deviation 1.14406[^2] was calculated. This is an equivalent drop in stunting prevalence of about 10%. This equates to a sample size of 137 children less than 5 years old. Assuming a design effect for a cluster survey of 2, this sample size was inflated to 274. A sample size of 274 respondents was needed for each strata (*urban*, *rural* and *hard-to-reach*) in Kayin State giving a total of 822 respondents in total. Assuming a non-response rate of 20% overall, a total of 330 respondents was the target sample for each strata in Kayin State.
+Using childhood stunting as index indicator for sample size calculations, the sample size needed to detect a change of mean HAZ from 1.432 in Kayin State[^2] to -0.932 with a calculated standard deviation 1.14406[^2] was calculated. This is an equivalent drop in stunting prevalence of about 10%. This equates to a sample size of 137 children less than 5 years old. Assuming a design effect for a cluster survey of 2, this sample size was inflated to 274. A sample size of 274 respondents was needed for each stratum (*urban*, *rural* and *hard-to-reach*) in Kayin State giving a total of 822 respondents in total. Assuming a non-response rate of 20% overall, a total of 330 respondents was the target sample for each stratum in Kayin State.
 
-As described in the sampling frame above, a total of 25 villages per strata and 14 respondent mothers with children less than 5 years old were the target number of samples and a total of 350 respondents in each strata was the overall target in order to achieve at least 274. In Kayin state, a total of 1050 respondents was the overall target. This is anticipated to be more than enough sample size as per calculations above. For the selected respondents who were not present at the time of data collection, two revisits were conducted with the respondent classified as a non-responder after two unsuccessful attempts.
+As described in the sampling frame above, a total of 25 villages per strata and 14 respondent mothers with children less than 5 years old were the target number of samples and a total of 350 respondents in each strata was the overall target in order to achieve at least 274. In Kayin state, a total of 1050 respondents was the overall target. This is anticipated to be more than enough sample size as per calculations above. For the selected respondents who were not present at the time of data collection, two revisits were conducted with the respondent classified as a non-responder after three unsuccessful attempts.
 
 ### Quasi-experimental cohort study {#study2}
 
-As part of a longitudinal, quasi-experimental evaluation design, the baseline survey included a cohort of mothers and their children selected through specific study eligibility criteria based on eligibility and receipt of the services and benefits of the MCCT program. Once recruited, this cohort was assessed on appropriate indicators related to nutrition, IYCF and health-seeking behaviours at baseline. This same cohort will then be assessed at endline on the same set of appropriate and relevant indicators to detect any difference between those receiving benefits from the MCCT from those who are not based on a regression discontinuity analytical approach (see Section \@ref(regression-discontinuity)).
+As part of a longitudinal, quasi-experimental evaluation design, the baseline survey included a cohort of mothers and their children selected through specific study eligibility criteria based on eligibility and receipt of the services and benefits of the MCCT program. Once recruited, this cohort was assessed on appropriate indicators related to nutrition, IYCF and health-seeking behaviours at baseline. This same cohort will then be assessed at midline on the same set of appropriate and relevant indicators to detect any difference between those receiving benefits from the MCCT from those who are not based on a regression discontinuity analytical approach (see Section \@ref(regression-discontinuity)).
 
 This component of the study provides a statistically robust comparison between those exposed to the MCCT program and those who are not hence detecting the possible impact that the program has on a specific set of impact indicators.
 
@@ -230,7 +258,7 @@ Eligibility criteria depended on three factors:
 
 * Date of start of recruitment into the MCCT program (1st October 2018)
 
-* Date when the recruitment for study participants will occur (6th August 2019)
+* Date of recruitment for study participants
 
 * Receipt of MCCT benefits
 
@@ -238,28 +266,24 @@ The optimal bandwidth of ages of the children to include in the study needed to 
 
 **Control group**
 
-Following are the criteria for eligibility to the control group of the study:
-
-1. Women who gave birth on/after 1 September 2018 but before 1 Oct 2108 (i.e. 1 month before the MCCT registration cut-off)
-
-2. Women who were pregnant/gave birth after 1 Oct 2018 but have not been recruited into program
+The criteria for eligibility to the control group of the study was women who gave birth on/after 1 September 2018 but before 1 October 2018 (i.e. 1 month before the MCCT registration cut-off).
 
 **Intervention group**
 
-The criteria for eligibility to the intervention group of the study was women who were pregnant on or after 1 Oct 2018 and have been recruited into the program.
+The criteria for eligibility to the intervention group of the study was women who gave birth on or after 1 Oct 2018 but before 1 November 2018 (i.e. 1 month after the MCCT registration cut-off) and have been recruited into the MCCT program.
 
 #### Sample size and selection {#sample-size-2}
 
-The RD design effect was factored in for sample size calculations. This design effect was used to inflate standard randomized controlled trials (RCT) sample sizes in order to account for the RD design. The RD design effect was primarily influenced by the distribution of characteristics of the cut-off variable (i.e. running variable) [@Bor2014]. Previous literature advise that if the running variable is normally distributed around the cut-off, then the design effect is approximately 2.75. If the running variable is uniformly distributed around the cut-off, the design effect is 4, and if it is bimodal in distribution, then the design effect can go up to 5 [@Schochet2009].
+The RD design effect was factored in for sample size calculations. This design effect was used to inflate standard randomized controlled trials (RCT) sample sizes in order to account for the RD design. The RD design effect was primarily influenced by the distribution of characteristics of the cut-off variable (i.e. running variable) [@Bor2014]. Previous literature advises that if the running variable is normally distributed around the cut-off, then the design effect is approximately 2.75. If the running variable is uniformly distributed around the cut-off, the design effect is 4, and if it is bimodal in distribution, then the design effect can go up to 5 [@Schochet2009].
 
 Given that the running variable for this study is the start date of registration in relation to pregnancy, it was expected that there would be various peaks in number of pregnancies at specific time points following a general seasonal pattern not necessarily related to the cut-off date. The distribution is therefore likely multi-modal. So an assumption of at least 5 design effect for this RD design was taken into account.
 
-Using prevalence of stunting as the index indicator for calculating sample size and using mean change in height-for-age z-score (HAZ) as the specific variable to use for assessing change, the same sample size calculation as in the survey was arrived at which was 137 for controls and 137 for intervention (total of 274) for each state.
-However, given the very narrow bandwidth of inclusion into the study used (one month before and after the program start), it is likely that the universe population from which to select the cohort is quite small and that the total sample size of 274 is likely requiring an exhaustive sampling of all children born within the specified periods above. In this case, the inflation factor to account for design effect was not considered to be relevant given that an exhaustive sample will be drawn to begin with. Hence the 274 sample size for Kayin State was set as the target sample size.
+Using prevalence of stunting as the index indicator for calculating sample size and using mean change in height-for-age z-score (HAZ) as the specific variable to use for assessing change, the same sample size calculation as in the survey was arrived at which was 137 for controls and 137 for intervention (total of 274).
+However, given the very narrow bandwidth of inclusion into the study used (one month before and after the program start), it is likely that the universal population from which to select the cohort is quite small and that the total sample size of 274 is likely requiring an exhaustive sampling of all children born within the specified periods above. In this case, the inflation factor to account for design effect was not considered to be relevant given that an exhaustive sample will be drawn to begin with. Hence the 274 sample size for Kayin State was set as the target sample size.
 
 #### Sample recruitment
 
-Sample recruitment utilised a full list or registry of births one month before and after the 1st of October 2018. As an exhaustive sample was needed, all fforts were undertaken to identify and recruit into the study including engagement with the DSW in listing out and finding these births across Kayin state.
+Sample recruitment utilised a full list or registry of births one month before and after the 1st of October 2018 in the wards and village tracts selected for the survey. As an exhaustive sample was needed, all fforts were undertaken to identify and recruit eligible women and their newborns into the study including engagement with the DSW in listing out and finding these births across Kayin state.
 
 ## Data collection
 
@@ -267,23 +291,17 @@ Data was collected using an electronic data entry system based on the **Open Dat
 
 ### Questionnaire design:
 
-Structured questionnaires for the household survey, village profiles, and township profiles were in English and translated into local languages. For the household survey, all questions and responses were translated into written Myanmar, Pwo Karen, and Sgaw Karen. The data collector had the option to switch from one language to another on the tablet. The household survey also included anthropometric measurements for weight, height and MUAC for all pregnant women, mothers who have recently given birth, and every child up to five years of age in selected households. A separate form was developed for the anthropometric measurements.
+Structured questionnaires for the household survey, village profiles, and township profiles were developed in English and translated into Myanmar language. The household survey also included anthropometric measurements for weight, height and MUAC for all pregnant women, mothers, and every child up to five years of age in selected households. A separate form was developed for the anthropometric measurements.
 
 The village profile questionnaire assessed various village level characteristics relevant to the study such as number of and distances to nearby markets, education, and health facilities; presence of community groups (e.g., Village Health Committees) and their functionality; presence of community volunteers (e.g., auxiliary midwives and community health workers); access and quality of water and sanitation facilities; and general agricultural practices.
 
 The township profile questionnaire collected data on the township’s population, geography, and governance, with summaries of key nutrition indicators.
 
-All approved questionnaires were back-translated into English to ensure that appropriate translation was done with discrepancies between language versions discussed and resolved between the study team and translators. Prior to the start of data collection, the household survey questionnaire was pilot tested to understand how well the wording and content, context effects, and interface design of the instruments performed in an actual survey setting and were revised as necessary. Respondents for field testing were purposively sampled from the same population as the baseline assessment (e.g., mothers from the study area, village leaders). The recommended minimum of 32 respondents were recruited for field testing of the household questionnaire. Field testing was iterative with changes to the data collection instruments implemented immediately and the revised instrument was re-tested. Field testing involved feedback from the following three sources:
-
-* Respondents: During field testing of the questionnaire, respondents were asked first to respond to the questions and then to re-interpret each question in their own words to learn how respondents understood the question and how they came up with their answers. The study team members probed for potential sources of ambiguity/confusion including word choice and translation, as well as the relevance and comprehensiveness of responses options to each question.
- 
-* Interviewers: The study team members provided feedback on the questionnaire content to confirm that questions and responses were clear in the context of data collection. Field testing also examined how well the e-questionnaire and tablet functioned in the field. Senior study team members collected data from enumerators for the purpose of field testing using a standardized debriefing questionnaire.
-
-* Design and content experts: Members of the study team reviewed the data collected during the field testing phase to check whether the responses correspond to the meaning of individual questions and the overall goals of the study.
+Prior to the start of data collection, the household survey questionnaire was pilot tested to understand how well the wording and content, context effects, and interface design of the instruments performed in an actual survey setting and were revised as necessary. Respondents for field testing were purposively sampled from the same population as the baseline assessment (e.g., mothers from the study area, village leaders). Field testing was iterative with changes to the data collection instruments implemented immediately and the revised instrument was re-tested. 
 
 ## Training of enumerators {#training}
 
-Different trainings were conducted based on the skill that was being trained on and the type of personnel that was being trained.
+Different trainings were conducted based on the skill that was being trained and the type of personnel that was being trained.
 
 ### Anthropometric Training {#anthro-training}
 
@@ -293,7 +311,7 @@ During the training, women of reproductive age and children under five years of 
 
 ### Interviewer and Supervisor Training {#interview-training}
 
-All supervisors and enumerators received an intensive 5-day training from study team members that covered the purposes of the study, informed consent procedures, the questionnaire guides and responses, electronic data entry, referral protocols for severe acute malnutrition, roles and responsibilities of all field staff, data quality assurance procedures, problem-solving, and conflict-sensitive approaches to data collection. The performance of trainees were assessed post-training using a written assessment based on didactic lessons, as well as performance during practice sessions. Separate trainings were conducted for the supervisors and interviewers in Kayin State.
+All supervisors and enumerators received an intensive 5-day training from study team members that covered the purposes of the study, informed consent procedures, the questionnaire guides and responses, electronic data entry, referral protocols for severe acute malnutrition, roles and responsibilities of all field staff, data quality assurance procedures, problem-solving, and conflict-sensitive approaches to data collection. The performance of trainees was assessed post-training during practice sessions.
 
 ### Additional Supervisor Training {#add-training}
 
@@ -301,15 +319,15 @@ All supervisors received an additional 3 days of training from study team member
 
 ## Survey management and supervision {#survy-management}
 
-During data collection, 1 field supervisor supervised 1 team each composed of 4 enumerators and 2 anthropometrists. Each team was expected to complete 14 household interviews and one village profile per day depending on feasibility. Community Partners International worked with the Central NNC and State/Region Nutrition Teams and nutrition experts in developing a referral guideline and standard operating procedures to ensure that any women or children who were measured during the study and suspected of having severe acute malnutrition (SAM) were immediately referred to an appropriate health provider. Survey teams were provided with contact information of the nearest health providers to ensure timely referral. Alerts to refer women and children were programmed into the e-questionnaire on the ODK platform, based on WHO criteria for SAM.
+Five teams were responsible for data collection in Kayin State. During data collection, 1 field supervisor supervised 1 team each composed of 4 enumerators and 2 anthropometrists. Each team was expected to complete 14 household interviews and one village profile per day depending on feasibility. Community Partners International worked with the Central NNC and State/Region Nutrition Teams and nutrition experts in developing a referral guidelines and standard operating procedures to ensure that any women or children who were measured during the study and suspected of having severe acute malnutrition (SAM) were immediately referred to an appropriate health provider. Survey teams were provided with contact information of the nearest health providers to ensure timely referral. Alerts to refer women and children were programmed into the e-questionnaire on the ODK platform, based on WHO criteria for SAM.
 
 ## Quality control {#quality-control}
 
 Quality control procedures throughout the assessment design, implementation, and analysis included:
 
-* Translation, back-translation, and pilot testing as described above;
+* Translation, and pilot testing as described above;
 
-* Development of standard operating procedures and training manuals. CPI developed and distributed guidelines on data collection procedures, including the questionnaire and anthropometry methods, to all members of the data collection team;
+* Development of standard operating procedures and training manuals. CPI developed and distributed guidelines on data collection procedures, including the questionnaire and anthropometry methods, to all members of the data collection teams;
 
 * Training of data collectors where supervisors, enumerators, and anthropometrists practiced administering the questionnaire and checking and correcting questionnaires for accuracy and completeness. The performance of anthropometrists and data collectors were assessed in terms of confidence, independence, and reliability during practice sessions during the trainings, and based on results of an evaluation at the end of the training period;
 
@@ -325,7 +343,7 @@ Quality control procedures throughout the assessment design, implementation, and
 
 Data handling, processing, analysis and reporting were done using **version 3.6.1** of the [R Language for Statistical Computing](https://cran.r-project.org)[^5] [@R2019]. The R package **myanmarMCCTdata** was developed to support the handling, processing and analysis of data collected for the study. The package includes functions to retrieve data from the [ONA](https://ona.io) server database, to appropriately structure datasets, to check and clean data, to recode data to respective indicator sets, to estimate indicators and to perform appropriate comparative analysis specified by the analysis[^6] [@myanmarData2019]. The package uses several other R packages that provide additional functions for data processing, analysis and reporting[^7].
 
-The main motivation for using R was to achieve transparent and reproducible research between the study collaborators and with external reviewers and/or readers. Developing the **myanmarMCCTdata** R package is the first step towards this aim of transparency and reproducibility as any collaborator and/or reviewer can easily retrieve the same codebase for data handling, processing and analysis used by the primary researchers. The second step was writing reports (including this report) using R itself using a seamless integration between data anlysis and reporting. This was achieved using R Markdown [@rmarkdown2018] for producting reports which included code chunks of how the data processed using **myanmarMCCTdata** functions were analysed to produce the results reported here. This report and the analysis herein, can be reviewed and reproduced by collaborators and reviewers by following instructions given [here](https://github.com/validmeasures/myanmarMCCTkayin).
+The main motivation for using R was to achieve transparent and reproducible research between the study collaborators and with external reviewers and/or readers. Developing the **myanmarMCCTdata** R package is the first step towards this aim of transparency and reproducibility as any collaborator and/or reviewer can easily retrieve the same codebase for data handling, processing and analysis used by the primary researchers. The second step was writing reports (including this report) using R itself using a seamless integration between data analysis and reporting. This was achieved using R Markdown [@rmarkdown2018] for producting reports which included code chunks of how the data processed using **myanmarMCCTdata** functions were analysed to produce the results reported here. This report and the analysis herein, can be reviewed and reproduced by collaborators and reviewers by following instructions given [here](https://github.com/validmeasures/myanmarMCCTkayin).
 
 ### Indicator estimation {#indicator-estimation}
 
@@ -418,7 +436,7 @@ Table: (\#tab:fcsWeights) FCS food groups and weights
 +-----+----------------------------------------+-----------------+------------+
 | 8   | Oils, fats and butter                  | Oil             | 0.5        |
 +-----+----------------------------------------+-----------------+------------+
-| 9   | Spices, tea, coffee, salt, fishpowder, | Condiments      | 0          |
+| 9   | Spices, tea, coffee, salt, fish powder,| Condiments      | 0          |
 |     | small amounts of milk for tea.         |                 |            |
 +-----+----------------------------------------+-----------------+------------+
 
@@ -438,7 +456,7 @@ Table: (\#tab:fcsThresholds) FCS classification thresholds
 
 #### Food consumption score nutrition quality {#fcsn}
 
-In addition to the standard FCS, WFP has devices a set of nutritional adequacy indicators that assess the nutrition quality of the household diet using the data provided by a slightly modified FCS questionnaire that disaggregates some of the food groups into sub-food groups known to contain vitamin A, protein and heme-iron. This is called the Food Consumption Score Nutrition Quality Analysis or FCS-N [@WorldFoodProgramme:2015tn]. The FCS-N focuses on three nutrients - vitamin A, iron and protein - to assess the nutrition adequacy of a household's diet. The FCS-N was calcualted by first aggregating the individual food groups into nutrient-rich food groups shown in Table \@ref(tab:fcs3).
+In addition to the standard FCS, WFP has devices a set of nutritional adequacy indicators that assess the nutrition quality of the household diet using the data provided by a slightly modified FCS questionnaire that disaggregates some of the food groups into sub-food groups known to contain vitamin A, protein and heme-iron. This is called the Food Consumption Score Nutrition Quality Analysis or FCS-N [@WorldFoodProgramme:2015tn]. The FCS-N focuses on three nutrients - vitamin A, iron and protein - to assess the nutrition adequacy of a household's diet. The FCS-N was calculated by first aggregating the individual food groups into nutrient-rich food groups shown in Table \@ref(tab:fcs3).
 
 ```{r fcs3, echo = FALSE, eval = TRUE}
 fcsnTable <- data.frame(c("Vitamin A-rich foods", "Protein-rich foods", "Heme iron-rich foods"),
@@ -572,11 +590,11 @@ In addition to the standard indicators, age-appropriate immunisation coverage in
 
 **Period prevalence of childhood illnesses and treatment-seeking**
 
-Mothers' report of their children's illness specifically diarrhoea, fever[^13] or cough[^14] in the past 2 weeks provides the data for assessing the period prevalence of these childhood illnesses. Then, for those whose children has been ill, mothers' reported on whether treatment was sought, where it was sough and whether payment for treatment was required are used to assess treatment-seeking.
+Mothers' report of their children's illness specifically diarrhoea, fever[^13] or cough[^14], in the past 2 weeks provided the data for assessing the period prevalence of these childhood illnesses. Then, for those whose children had been ill, mothers' reported on whether treatment was sought, where it was sought and whether payment for treatment was required was used to assess treatment-seeking.
 
 **Child birthweight**
 
-Child birthweight was assessed based on either mother's report of child's birthweight or by recorded birthweight on child's health card. However, for purposes of accuracy, only the recorded birthweight on a health card was used to determine whether child was born with low birth weight. Children with birthweight of less than 2500 grams were classified as being born with low birthweight [@Woertman:1993hp; @Kelly:1997wa].
+Child birthweight was assessed based on either mother's report of their child's birthweight or by recorded birthweight on the child's health card. However, for purposes of accuracy, only the recorded birthweight on a health card was used to determine whether a child was born with low birth weight. Children with birthweight of less than 2500 grams were classified as being born with low birthweight [@Woertman:1993hp; @Kelly:1997wa].
 
 #### Child nutrition {#cnut}
 
@@ -584,7 +602,7 @@ The Myanmar MCCT program evaluation assessed the following child nutrition indic
 
 **Childhood undernutrition**
 
-Respective childhood undernutrition indices for childhood stunting, childhood wasting and childhood underweight were assessed. The height-for-age z-scores (HAZ), weight-for-height z-scores (WAZ) and weight-for-age z-scores of each 6-59 month old child in the sample were calculated using the using the R package **zscorer**[^15] [@zscorer2019]. Once z-score values were calculated, implausible z-score values were flagged using the WHO Growth Standards flagging criteria [@WorldHealthOrganizationWHO2006]. This was facilitated through the **nutricheckr** R package[^16] [@nutricheckr2019]. Further anthropometric data quality checks were performed using **nipnTK**[^17] [@nipnTK2019] R package which is based on an anthropometric data quality check toolkit developed and produced by the [National Information Platforms for Nutrition (NIPN)](http://www.nipn-nutrition-platforms.org) and funded by the European Union.
+Respective childhood undernutrition indices for childhood stunting, childhood wasting and childhood underweight were assessed. The height-for-age z-scores (HAZ), weight-for-height z-scores (WAZ) and weight-for-age z-scores of each 6-59 month old child in the sample were calculated using the R package **zscorer**[^15] [@zscorer2019]. Once z-score values were calculated, implausible z-score values were flagged using the WHO Growth Standards flagging criteria [@WorldHealthOrganizationWHO2006]. This was facilitated through the **nutricheckr** R package[^16] [@nutricheckr2019]. Further anthropometric data quality checks were performed using **nipnTK**[^17] [@nipnTK2019] R package which is based on an anthropometric data quality check toolkit developed and produced by the [National Information Platforms for Nutrition (NIPN)](http://www.nipn-nutrition-platforms.org) and funded by the European Union.
 
 **Infant and young child feeding**
 
@@ -608,9 +626,9 @@ A standard set of maternal health indicators covering *family planning*, *antena
 
 The following maternal nutrition indicators were assessed:
 
-**Maternal undernutrtion**
+**Maternal undernutrition**
 
-Maternal undernutrition was assessed based on MUAC. No consensus on MUAC cut-offs to determine maternal acute undernutrition have been identified and currently used cut-offs are specifically for pregnant and lactating women (PLW). Current research suggest that a cut-off of 23 cms as most appropriate for PLW [@Ververs:2013ee] instead of the commonly used 18.5 and 21 cms cutoffs in supplementation programmes for PLW. Given that the Myanmar MCCT dataset has data for women of reproductive age and not only PLW, the 18.5 and 21 cms cutoffs were used to assess levels of acute undernutrition in mothers (see Table \@ref(tab:manthro1)).
+Maternal undernutrition was assessed based on MUAC. No consensus on MUAC cut-offs to determine maternal acute undernutrition have been identified and currently used cut-offs are specifically for pregnant and lactating women (PLW). Current research suggest that a cut-off of 23 cms is the most appropriate for PLW [@Ververs:2013ee] instead of the commonly used 18.5 and 21 cms cutoffs in supplementation programmes for PLW. Given that the Myanmar MCCT dataset has data for women of reproductive age and not only PLW, the 18.5 and 21 cms cutoffs were used to assess levels of acute undernutrition in mothers (see Table \@ref(tab:manthro1)).
 
 ```{r manthro1, echo = FALSE, eval = TRUE}
 manthroTable <- data.frame(c("< 21", "18.5 to 21", "< 18.5"),
@@ -650,7 +668,7 @@ The ten food groups are:
 
 A fully reproducible data processing report can be reviewed [here](https://github.com/validmeasures/myanmarMCCTprocessing).
 
-Using the the recoded data for indicators, population-level estimates with 95\% confidence limits of these indicators were calculated using standard classical estimation techniques. Proportion-type indicators were estimated by getting the proportion of those having the indicator of interest out of the total sample. The 95\% confidence limits for a proportiont-type indicator was estimated using the following formula:
+Using the recoded data for indicators, population-level estimates with 95\% confidence limits of these indicators were calculated using standard classical estimation techniques. Proportion-type indicators were estimated by getting the proportion of those having the indicator of interest out of the total sample. The 95\% confidence limits for a proportion-type indicator was estimated using the following formula:
 
 $$
 \begin{aligned}
@@ -681,7 +699,7 @@ Indicator estimation was performed on the dataset for respondents for the popula
 
 ### Regression discontinuity {#regression-discontinuity}
 
-Using data from respondents who quality for eligibility to the second component of the study, outcome nutrition indicators for chlidren and mothers were plotted by date of birth of the index child to demonstrate whether a regression discontinuity on the indicators of interest were demonstrable between those who are not benefitting from the MCCT program (on the basis of being born up to a month before the start of the program) and those who are (born up to a month after start of the program). Discontinuity was detected visually through the plot and statistically by testing any difference between the regression line of those in the control group to the regression line of those in the treatment group.
+Using data from respondents who quality for eligibility to the second component of the study, outcome nutrition indicators for children and mothers were plotted by date of birth of the index child to demonstrate whether a regression discontinuity on the indicators of interest were demonstrable between those who are not benefitting from the MCCT program (on the basis of being born up to a month before the start of the program) and those who are (born up to a month after start of the program). Discontinuity was detected visually through the plot and statistically by testing any difference between the regression line of those in the control group to the regression line of those in the treatment group.
 
 # Results {#results}
 
@@ -819,7 +837,7 @@ ggplot(data = ppiDF[ppiDF$sample_component == 1 & ppiDF$geo_state == "Kayin", ],
 
 Poverty probability of households across different locations in Kayin state show high variability ranging from as low as 1.4% to as high as a little over 95%. This distribution of poverty is roughly similar across urban, rural and hard-to-reach areas as seen in Figure \@ref(fig:ppiTable) above.
 
-The poverty probabilities was primarily used to classify households into wealth quintiles which was subsequently used for wealth stratification of indicator results.
+The poverty probabilities were primarily used to classify households into wealth quintiles which was subsequently used for wealth stratification of indicator results.
 
 ### Food consumption score {#fcs-results}
 
@@ -906,7 +924,7 @@ tab <- recode_fcs_nutrition(df = hh) %>%
 tab[ , 3:ncol(tab)] <- tab[ , 3:ncol(tab)] * 100
 ```
 
-Household consumption of vitamin A-, protein- and heme iron-rich foods indicate the quality of the household diet. In Kayin State, frequency of consumption of these nutrient-rich foods is generally high with vitamin A- and protein-rich foods consumed more frequently than heme iron-rich foods. In addition, frequency of household consumption of these nutrients is influenced by geographic location and wealth. Vitamin A-rich foods are consumed at least daily by `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Urban", "vita3"], digits = 1), "%", sep = "")` and `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Rural", "vita3"], digits = 1), "%", sep = "")` of households in urban and rural areas respectively and then drops to as low as `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Hard-to-reach", "vita3"], digits = 1), "%", sep = "")` in hard-to-reach areas (see Figure \@ref(fig:fcsn1plot)). The same decreasing pattern of frequency of vitamin A-rich foods consumption is noted when households are grouped by wealth quintiles with majority of the wealthiest and the wealthy consuming vitamin A-rich foods at least daily while poor and poorest households consumed vitamin A-rich foods at least daily only `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Poor", "vita3"], digits = 1), "%", sep = "")` and `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Poorest", "vita3"], digits = 1), "%", sep = "")` of the times respectively (see Figure \@ref(fig:fcsn2plot)). This same trend is noted with frequency of household consumption of protein-rich foods (see Figure \@ref(fig:fcsn3plot) and Figure \@ref(fig:fcsn4plot)) and frequency of household consumption of heme iron-rich foods (see Figure \@ref(fig:fcsn5plot) and \@ref(fig:fcsn6plot)) but to a lesser magnitude.
+Household consumption of vitamin A-, protein- and heme iron-rich foods indicates the quality of the household diet. In Kayin State, frequency of consumption of these nutrient-rich foods is generally high with vitamin A- and protein-rich foods consumed more frequently than heme iron-rich foods. In addition, the frequency of household consumption of these nutrients is influenced by geographic location and wealth. Vitamin A-rich foods are consumed at least daily by `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Urban", "vita3"], digits = 1), "%", sep = "")` and `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Rural", "vita3"], digits = 1), "%", sep = "")` of households in urban and rural areas respectively and then drops to as low as `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Hard-to-reach", "vita3"], digits = 1), "%", sep = "")` in hard-to-reach areas (see Figure \@ref(fig:fcsn1plot)). The same decreasing pattern of frequency of vitamin A-rich foods consumption is noted when households are grouped by wealth quintiles with the majority of the wealthiest and the wealthy consuming vitamin A-rich foods at least daily while poor and poorest households consumed vitamin A-rich foods at least daily only `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Poor", "vita3"], digits = 1), "%", sep = "")` and `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Poorest", "vita3"], digits = 1), "%", sep = "")` of the times respectively (see Figure \@ref(fig:fcsn2plot)). This same trend is noted with frequency of household consumption of protein-rich foods (see Figure \@ref(fig:fcsn3plot) and Figure \@ref(fig:fcsn4plot)) and frequency of household consumption of heme iron-rich foods (see Figure \@ref(fig:fcsn5plot) and \@ref(fig:fcsn6plot)) but to a lesser magnitude.
 
 ```{r fcsn1table, echo = FALSE, eval = TRUE}
 knitr::kable(x = tab[tab$state == "Kayin", ],
@@ -1108,7 +1126,7 @@ ggplot(data = tab[!tab$strata %in% c("Urban", "Rural", "Hard-to-reach") & tab$st
 
 #### Livelihood-based coping strategies index {#lcsi-results}
 
-The use of a few consumption-based coping strategies by households in Kayin state can be partly explained by close to 50% of households being relatively food secure in that they are not requiring longer-term livelihoods-based coping strategies. However, up to 40% of households across Kayin state utilise stress type of livelihoods coping strategies in the longer term (see Table \@ref(tab:lcsi1Table)). There is a seeming geographical and wealth gradient for livelihoods-based coping strategies. A higher proportion of households in hard-to-reach areas are relatively food secure and a lower proportion of households in hard-to-reach areas are in stress (see Figure \@ref(fig:lcsi1plot)). A similar trend can be found across wealth classes in that higher proportion of food secure households and lower proportion of households in stress or in crisis were observed among poorer households compared to wealthier households (see Figure \@ref(fig:lcsi2plot)).
+The use of a few consumption-based coping strategies by households in Kayin state can be partly explained by close to 50% of households being relatively food secure in that they are not requiring longer-term livelihoods-based coping strategies. However, up to 40% of households across Kayin State utilise stress type of livelihoods coping strategies in the longer term (see Table \@ref(tab:lcsi1Table)). There is a seeming geographical and wealth gradient for livelihoods-based coping strategies. A higher proportion of households in hard-to-reach areas are relatively food secure and a lower proportion of households in hard-to-reach areas are in stress (see Figure \@ref(fig:lcsi1plot)). A similar trend can be found across wealth classes in that higher proportion of food secure households and lower proportion of households in stress or in crisis were observed among poorer households compared to wealthier households (see Figure \@ref(fig:lcsi2plot)).
 
 ```{r lcsi1table, echo = FALSE, eval = TRUE}
 tab <- recode_csi_livelihoods(df = hh) %>%
@@ -1174,7 +1192,7 @@ ggplot(data = tabLong[!tabLong$strata %in% c("Rural", "Urban", "Hard-to-reach") 
 
 ### Household food expenditure share {#hfes-results}
 
-Majority of households accress Kayin state have low food insecurity (see Table \@ref(tab:hfes2table)) based on household food expenditure share (HFES). However, there are pockets of households in mostly hard-to-reach areas and households who are poor and poorest that are highly food insecure or vulnerable (see Figure \@ref(fig:hfesScatterPlot1) and Figure \@ref(fig:hfesScatterPlot2)).
+Majority of households accross Kayin state have low food insecurity (see Table \@ref(tab:hfes2table)) based on household food expenditure share (HFES). However, there are pockets of households in mostly hard-to-reach areas and households who are poor and poorest that are highly food insecure or vulnerable (see Figure \@ref(fig:hfesScatterPlot1) and Figure \@ref(fig:hfesScatterPlot2)).
 
 ```{r hfes2table, echo = FALSE, eval = TRUE}
 tab <- recode_hfes(df = hh) %>%
@@ -1310,7 +1328,7 @@ ggplot(data = tab[tab$sample_component == 1 & tab$geo_state == "Kayin", ],
 
 #### Water services ladder {#water-results}
 
-There is minimal seasonal variation in households' access to drinking water with majority of households able to get water from improved sources of drinking water whole year round (see \@ref(tab:wash1table)). However, up to 18% of households in hard-to-reach areas use surface water as their drinking water source (see Figure \@ref(fig:wash1plot)). Interestingly, in urban areas, up to 4% still access driking water from surface water. Figure \@ref(fig:wash2plot) show that the poorer the houshold gets, the higher the probability that the household is accessing drinking water from surface water.
+There is minimal seasonal variation in households' access to drinking water with a majority of households able to get water from improved sources of drinking water whole year round (see \@ref(tab:wash1table)). However, up to 18% of households in hard-to-reach areas use surface water as their drinking water source (see Figure \@ref(fig:wash1plot)). Interestingly, in urban areas, up to 4% still access drinking water from surface water. Figure \@ref(fig:wash2plot) show that the poorer the household gets, the higher the probability that the household is accessing drinking water from surface water.
 
 ```{r wash1table, echo = FALSE, eval = TRUE}
 tab <- recode_wash(df = hh) %>%
@@ -1406,7 +1424,7 @@ tab <- recode_wash(df = hh) %>%
 tab[ , 3:ncol(tab)] <- tab[ , 3:ncol(tab)] * 100
 ```
 
-Up to 78% of households in urban areas of Kayin state have at least limited (improved toilet facility but shared with other households) or basic (improved sanitation facility and not shared with other households) sanitation facilities (see Table \@ref(tab:san1table)). On the other hand, unimproved sanitation facilities and open defection are used by more households in hard-to-reach areas (see \@ref(fig:san1plot)) and increasingly used as households get poorer (see Figure \@ref(fig:san2plot)). Up to `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Wealthiest", "san5"], digits = 1), "%", sep = "")` of wealthiest households and `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Wealthy", "san5"], digits = 1), "%", sep = "")` of wealthy households have unimproved sanitation facialities.
+Up to 78% of households in urban areas of Kayin state have at least limited (improved toilet facility but shared with other households) or basic (improved sanitation facility and not shared with other households) sanitation facilities (see Table \@ref(tab:san1table)). On the other hand, unimproved sanitation facilities and open defection are used by more households in hard-to-reach areas (see \@ref(fig:san1plot)) and increasingly used as households get poorer (see Figure \@ref(fig:san2plot)). Up to `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Wealthiest", "san5"], digits = 1), "%", sep = "")` of wealthiest households and `r paste(round(tab[tab$state == "Kayin" & tab$strata == "Wealthy", "san5"], digits = 1), "%", sep = "")` of wealthy households have unimproved sanitation facilities.
 
 ```{r san1table, echo = FALSE, eval = TRUE}
 knitr::kable(x = tab[tab$state == "Kayin", ],
@@ -1544,7 +1562,7 @@ Immunisation coverage in Kayin state tells a story of a generally wide exposure 
 
 Per vaccination type coverage, as to be expected, is significantly low across the whole of Kayin state (see Table \@ref(tab:epi2table)) with households in hard-to-reach areas and poor and poorest households with significantly lower per vaccine type coverage, except for BCG, compared to urban and rural areas and wealthy and wealthiest households (see Figure \@ref(fig:epi3plot) and Figure \@ref(fig:epi4plot)).
 
-Coverage of vitamin A supplementation, a service that is usually delivered together with immunisation, is relatively higher going up to about 60% in rural areas but much lower in urban and hard-to-reach areas (see Figure \@ref(fig:epi5plot)) and lower in wealthiest and poorest households (see Figure \@ref(fig:epi6plot)). Deworming coverage is low at only up to 25% in rural areas and considerably lower in urban and hard-to-reach areas (see Figure \@ref(fig:epi5plot)). Interestingly, poorest households have relatively higher deworming rates among wealth classes (see Figure \@ref(fig:epi6plot)).
+Coverage of vitamin A supplementation, a service that is usually delivered together with immunisation, is relatively higher and going up to about 60% in rural areas but much lower in urban and hard-to-reach areas (see Figure \@ref(fig:epi5plot)) and lower in wealthiest and poorest households (see Figure \@ref(fig:epi6plot)). Deworming coverage is low at only up to 25% in rural areas and considerably lower in urban and hard-to-reach areas (see Figure \@ref(fig:epi5plot)). Interestingly, poorest households have relatively higher deworming rates among wealth classes (see Figure \@ref(fig:epi6plot)).
 
 ```{r epi1table, echo = FALSE, eval = TRUE}
 tab <- recode_chealth(df = create_chealth(df = childHealth, x = hh, y = hhMembers)) %>%
@@ -1892,7 +1910,7 @@ ggplot(data = tabLong[!tabLong$strata %in% c("Rural", "Urban", "Hard-to-reach") 
 
 #### Period prevalence of childhood illnesses {#illness}
 
-Fever is the most self-reported illness in children 6-59 months old with up to 29% of mothers reporting fever in their children in the past 2 weeks in rural areas followed closely by those in urban areas at 26% and by 18% of mothers in hard-to-reach areas (see Figure \@ref(fig:ill1plot)). The wealtheir households also report fever the most at 27% compared to 19% for poor and 21% for poorest households (see Figure \@ref(fig:ill2plot)).
+Fever is the most self-reported illness in children 6-59 months old with up to 29% of mothers reporting fever in their children in the past 2 weeks in rural areas followed closely by those in urban areas at 26% and by 18% of mothers in hard-to-reach areas (see Figure \@ref(fig:ill1plot)). The wealthier households also report fever the most at 27% compared to 19% for poor and 21% for poorest households (see Figure \@ref(fig:ill2plot)).
 
 ARI is the next most self-reported illness in children 6-59 months old with up to 11% of mothers in hard-to-reach areas reporting ARI in their children in the past 2 weeks (see Figure \@ref(fig:ill1plot). No clear trend by wealth classes can be observed with self-reporting of ARI (see Figure \@ref(fig:ill2plot)).
 
@@ -2274,7 +2292,7 @@ When asked why treatment was not sought for ARI, those from the urban areas didn
 
 Those from urban areas tended to see a private doctor whilst those from rural and hard-to-reach areas predominantly went to the EHO clinic or self-medicated (see Figure \@ref(fig:ari5plot)). The wealthier households sought treatement for ARI from a private clinic/doctor whilst the poorer households went to the ethnic health worker or self-medicated (see Figure \@ref(fig:ari6plot)).
 
-Costs incurred for treatment were majority for medications (see Table \@ref(tab:ari3table)).
+Costs incurred for treatment were primarily for medications (see Table \@ref(tab:ari3table)).
 
 ```{r ari1table, echo = FALSE, eval = TRUE}
 tab <- recode_chealth(df = create_chealth(df = childHealth, x = hh, y = hhMembers)) %>%
@@ -3176,9 +3194,9 @@ When asked about preferences of when to have next child, the range of responses 
 
 Current contraception use is highest in urban areas at 63% followed by rural areas and hard-to-reach areas at 43%. Only 36% of the poorest women use are using contraception now. Of all contraceptive devices and methods, the injectables are the most commonly used by women in all areas and in all wealth classes followed by pills (see Table \@ref(tab:fplan2table)).
 
-Majority of women using contraptives received family planning services from the private doctor, midwife or EHO clinic with women from urban areas receiving family planning services from private doctors, those from rural areas receiving services from midwives and hard-to-reach areas from EHO clinics (see Figure \@ref(fig:fplan1plot)). Wealthier households received family planning services from government hospital, pharmacy or midwives while the poorest households receive services from the EHO clinics (see Figure \@ref(fig:fplan2plot)).
+Majority of women using contraceptives received family planning services from the private doctor, midwife or EHO clinic with women from urban areas receiving family planning services from private doctors, those from rural areas receiving services from midwives and hard-to-reach areas from EHO clinics (see Figure \@ref(fig:fplan1plot)). Wealthier households received family planning services from government hospital, pharmacy or midwives while the poorest households receive services from the EHO clinics (see Figure \@ref(fig:fplan2plot)).
 
-A large proportion of women in urban and rural areas and wealthiest and wealthy households have received information on family planning. either from the hospital or from a midwife (see Table \@ref(tab:fplan4table)). Majority of women regardless of location and regardless of wealth class know basic family planning knoweldge (see Table \@ref(tab:fplan4table)).
+A large proportion of women in urban and rural areas and wealthiest and wealthy households have received information on family planning. either from the hospital or from a midwife (see Table \@ref(tab:fplan4table)). Majority of women regardless of location and regardless of wealth class know basic family planning knowledge (see Table \@ref(tab:fplan4table)).
 
 ```{r fplan1table, echo = FALSE, eval = TRUE}
 tab <- recode_fplan(df = hh) %>%
@@ -3487,7 +3505,7 @@ ggplot(data = tabLong[!tabLong$strata %in% c("Urban", "Rural", "Hard-to-reach") 
 
 ##### Antenatal care coverage {#ancCoverage}
 
-Only up to 26% of women in rural areas had at least one ANC visit with a skilled/trained health professional. Slightly lesser proportion of women in urban areas (23%) had at least one ANC visit with a skilled/trained health professional. Women in hard-to-reach areas had the significantly lower proportion of women who had at least one ANC visit with a skilled/trained health professional at 11% (see Figure \@ref(fig:anc1plot)). Across wealth classes, the wealthiest and the poorest women had the lowest proportion of women who had at least one ANC visit with a skilled/trained health professional at 16% and 18% respectively (see Figure \@ref(fig:anc2plot)). This proportion doesn't improve with at least 4 ANC visits with any health professional or service provider (see Figure \@ref(fig:anc1plot) and Figure \@ref(fig:anc2plot)). Incurring costs for ANC is dictated by location and by wealth with those in urban and hard-to-reach areas most often having to pay for ANC-related costs whilst those in rural areas less so (see Table \@ref(tab:anc1table)). A similar pattern exist across wealth classes with wealthiest and wealthy women most often have to pay for ANC-related costs whilst poor and poorest women not as often. With regard to amount of costs incurred, women in urban and hard-to-reach areas pay on average more than those in rural areas. When assessed by wealth classes, mean costs incurred for ANC visits is highest for the wealthiest and for the poorest. This might indicate thate the wealthiest are spending over and above routine ANC care and services because they can afford it whilst the poorest only attend ANC when there is something seriously wrong with the pregnancy which necessitates much costly type of care.
+Only up to 26% of women in rural areas had at least one ANC visit with a skilled/trained health professional. A slightly lesser proportion of women in urban areas (23%) had at least one ANC visit with a skilled/trained health professional. Women in hard-to-reach areas had the significantly lower proportion of women who had at least one ANC visit with a skilled/trained health professional at 11% (see Figure \@ref(fig:anc1plot)). Across wealth classes, the wealthiest and the poorest women had the lowest proportion of women who had at least one ANC visit with a skilled/trained health professional at 16% and 18% respectively (see Figure \@ref(fig:anc2plot)). This proportion doesn't improve with at least 4 ANC visits with any health professional or service provider (see Figure \@ref(fig:anc1plot) and Figure \@ref(fig:anc2plot)). Incurring costs for ANC is dictated by location and by wealth with those in urban and hard-to-reach areas most often having to pay for ANC-related costs whilst those in rural areas less so (see Table \@ref(tab:anc1table)). A similar pattern exists across wealth classes with wealthiest and wealthy women most often have to pay for ANC-related costs whilst poor and poorest women not as often. With regard to amount of costs incurred, women in urban and hard-to-reach areas pay on average more than those in rural areas. When assessed by wealth classes, the mean costs incurred for ANC visits is highest for the wealthiest and for the poorest. This might indicate that the wealthiest are spending over and above routine ANC care and services because they can afford it whilst the poorest only attend ANC when there is something seriously wrong with the pregnancy which necessitates much more costly types of care.
 
 ```{r anc1table, echo = FALSE, eval = TRUE}
 tab <- recode_anc(df = create_anc(df = anc2, x = hh, y = hhMembers, status = "past"), 
@@ -3712,7 +3730,7 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
 
 ##### Antenatal care supplementation {#ancSupplementation}
 
-Consumption of vitamin B1 during pregnancy was most common among urban women at 80% followed closely by women from rural areas at 76%. Women from hard-to-reach areas consumed the least at 64%. Iron-folic acid consumption follows a similar pattern with urban women consuming IFA the most at 94% followed by women from rural areas at 86%. Women from hard-to-reach areas consumed the least at 64% (see Figure \@ref(fig:anc3Plot)). Across wealth classes, vitamin B1 and IFA consumption during pregnancy decreases from wealthiest to poorest women (see Figure \@ref(fig:anc4Plot)). The number of days IFA tablet was taken was at least more than 100 days with length of consumption highest in urban and rural areas and amongst wealthy and wealthiest women. Those in urban areas got their IFA supplements mainly from the government hospital while those from rural and hard-to-reach areas got theirs from the SRHC/RHC and EHO clinics respectively. The wealthier the woman the more likely that they would have recieved IFA supplements from the government hospital. The poorer the woman the more likely that they would have received IFA supplements from the EHO clinic or the SRHC/RHC (see Table \@ref(tab:anc3table)).
+Consumption of vitamin B1 during pregnancy was most common among urban women at 80% followed closely by women from rural areas at 76%. Women from hard-to-reach areas consumed the least at 64%. Iron-folic acid consumption follows a similar pattern with urban women consuming iron-folic acid (IFA) the most at 94% followed by women from rural areas at 86%. Women from hard-to-reach areas consumed the least at 64% (see Figure \@ref(fig:anc3Plot)). Across wealth classes, vitamin B1 and IFA consumption during pregnancy decreases from wealthiest to poorest women (see Figure \@ref(fig:anc4Plot)). The number of days in which an IFA tablet was taken was at least more than 100 days with the length of consumption highest in urban and rural areas and among wealthy and wealthiest women. Those in urban areas got their IFA supplements mainly from the government hospital while those from rural and hard-to-reach areas got theirs from the SRHC/RHC and EHO clinics respectively. The wealthier the woman the more likely that they would have recieved IFA supplements from the government hospital. The poorer the woman the more likely that they would have received IFA supplements from the EHO clinic or the SRHC/RHC (see Table \@ref(tab:anc3table)).
 
 ```{r anc3table, echo = FALSE, eval = TRUE}
 tab <- recode_anc(df = create_anc(df = anc2, x = hh, y = hhMembers, status = "past"),
@@ -3794,7 +3812,7 @@ ggplot(data = tabLong[!tabLong$strata %in% c("Rural", "Urban", "Hard-to-reach") 
 
 ##### Antenatal care testing {#ancTesting}
 
-Only 19% of women in urban areas and 18% in rural areas had tests done during their ANC whilst only 3% of women in hard-to-reach areas had tests done. The poor and poorest women had the least testing done at 11% and 6% respectively. Majority of the tests done is for HIV/AIDS in rural and urban areas and among wealthiest women. The SRHC was the predominant provider of ANC teseting services. About a quarter to a third of women incurred costs for ANC testing across various locations and across wealth classes (see Table \@ref(tab:anc4table)).
+Only 19% of women in urban areas and 18% in rural areas had tests done during their ANC whilst only 3% of women in hard-to-reach areas had tests done. The poor and poorest women had the least testing done at 11% and 6% respectively. The majority of the tests done wass for HIV/AIDS in rural and urban areas and among wealthiest women. The SRHC was the predominant provider of ANC testing services. About a quarter to a third of women incurred costs for ANC testing across various locations and across wealth classes (see Table \@ref(tab:anc4table)).
 
 ```{r anc4table, echo = FALSE, eval = TRUE}
 tab <- recode_anc(df = create_anc(df = anc2, x = hh, y = hhMembers, status = "past"),
@@ -4817,7 +4835,7 @@ knitr::kable(x = tab[tab$state == "Kayin", ],
 
 For the results of the cohort study, the regression discontinuity was demonstrated through a regression plot of children's anthropometric indices and MUAC for those who were born a month before the start of recruitment for the MCCT program (control program) and those who were born a month after the start of the recruitment for the MCCT program (intervention).
 
-An intention-to-treat analysis was applied with intervention cases were identified purely based on their eligibility for the program. Further analysis of acutal receipt of benefits from MCCT should be included at endline. Following are the results.
+An intention-to-treat analysis was applied with intervention cases were identified purely based on their eligibility for the program. Further analysis of actual receipt of benefits from MCCT should be included at midline.
 
 ### Child anthropometric indicators
 
